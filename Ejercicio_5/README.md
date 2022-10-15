@@ -1,0 +1,3 @@
+RESULTADO:
+Serie = 1, 4 , 9, 16, 25, 36, 49, .... 
+Debe ir sin coma
